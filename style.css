@@ -1,0 +1,36 @@
+.card{
+    margin-left: 30%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+img{
+    position: relative;
+    height: 400px;
+    width: 500px;
+}
+button{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+h1{
+    align-items: center;
+    text-align: center;
+}
+.main-head{
+    color: rgb(230, 99, 34);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h5{
+    color:rgb(230, 99, 34);
+}
+body{
+    background: linear-gradient(45deg,white,rgb(47, 173, 232));
+}
+select{
+    color: black;
+    border-radius: 30px;
+    align-items: center;
+    border: 2px solid blue;
+    font-size: 20px;
+}
